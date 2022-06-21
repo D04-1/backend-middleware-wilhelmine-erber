@@ -1,0 +1,24 @@
+{
+  "name": "backend-middleware-wilhelmine-erber",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Eine Übung, um das Schreiben benutzerdefinierter Middleware innerhalb eines Express.js-Servers zu üben",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/D04-1/backend-middleware-wilhelmine-erber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/D04-1/backend-middleware-wilhelmine-erber/issues"
+  },
+  "homepage": "https://github.com/D04-1/backend-middleware-wilhelmine-erber#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
